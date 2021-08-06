@@ -11,4 +11,4 @@
 
 #需要启动redis服务，作为消息中间件
 
-#需要设置nginx开机自启
+#需要设置nginx开机自启  输入命令 #systemctl enable nginx.service
